@@ -1,0 +1,14 @@
+
+README
+
+"Vem Ringde" is a Swedish app for looking up numbers against a database of annoying phone 
+marketeers and such.
+
+
+* Current State
+
+The app is unfinished. It can download number list from internet and run seraches against it, 
+but it can not warn users while the phone is ringing or check the dial history (is there even 
+a MeeGo API for those?). 
+
+Also all the misc. fucntions such as the about page and the history page are missing.

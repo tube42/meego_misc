@@ -1,0 +1,11 @@
+
+ TODO
+======
+ * trail is very "jumpy" on phone but looks ok on PC...
+ * if the coordinates reported  MouseArea.onPositionChanged  are too far aprt,
+ interpolate  between them so we dont miss something between the two points
+ * stop the timer when app is inactive
+
+ DONE
+======
+ * need some sort of trail to show where the finger movements has been
